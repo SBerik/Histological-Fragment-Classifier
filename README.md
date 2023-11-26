@@ -25,4 +25,4 @@ ___
 
 [Доступ к Google collab документу](https://drive.google.com/file/d/1yjCy3EAeLNOZuq1eRl-fsPIb9QB-h3IL/view?usp=sharing) название документа: _solutionofproblemstarter1_, далее выйдет подсказка "использовать google collab" - нажмите на нее. Ссылка: <https://drive.google.com/file/d/1yjCy3EAeLNOZuq1eRl-fsPIb9QB-h3IL/view?usp=sharing>
 
-Если остались вопросы пишет в тг: **@BSnewlife**
+Если остались вопросы пишете в telegram: **@BSnewlife**

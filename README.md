@@ -27,5 +27,14 @@ ___
 ### Доступ к Google Collab
 
 [Доступ к Google collab документу](https://drive.google.com/file/d/1yjCy3EAeLNOZuq1eRl-fsPIb9QB-h3IL/view?usp=sharing) название документа: _solutionofproblemstarter1_, далее выйдет подсказка "использовать google collab" - нажмите на нее. Ссылка на файл: <https://drive.google.com/file/d/1yjCy3EAeLNOZuq1eRl-fsPIb9QB-h3IL/view?usp=sharing>
+___
+
+### Результаты
+
+| Заголовок 1 | Заголовок 2 | Заголовок 3 |
+|-------------|-------------|-------------|
+| Значение 1,1 | Значение 1,2 | Значение 1,3 |
+| Значение 2,1 | Значение 2,2 | Значение 2,3 |
+___
 
 Если остались вопросы пишете в telegram: **@BSnewlife**

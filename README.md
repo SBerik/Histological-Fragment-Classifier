@@ -23,6 +23,6 @@ ___
 * LBL5 Вывод показателей loss и accuracy в процессе обучения
 * LBL13 предобучение на imageNet
 
-[Доступ к Google collab документу]() название документа: _solutionofproblemstarter1_, ссылка: <https://stackoverflow.com/questions/40023013/tab-space-in-markdown>
+[Доступ к Google collab документу](https://drive.google.com/file/d/1yjCy3EAeLNOZuq1eRl-fsPIb9QB-h3IL/view?usp=sharing) название документа: _solutionofproblemstarter1_, далее выйдет подсказка "использовать google collab" - нажмите на нее. Ссылка: <https://drive.google.com/file/d/1yjCy3EAeLNOZuq1eRl-fsPIb9QB-h3IL/view?usp=sharing>
 
 Если остались вопросы пишет в тг: **@BSnewlife**

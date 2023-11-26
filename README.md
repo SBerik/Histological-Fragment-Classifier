@@ -1,2 +1,4 @@
-# Homemadetask
-Here is the work that is not related to professional activities 
+# Практическое задание №1
+
+#### Цель реализовать модель для классификации фрагментов полнокадровых гистологических изображений (патчей) на 9 классов: [ADI, BACK, DEB, LYM, MUC, MUS, NORM, STR, TUM]. Каждый патч представляет собой цветное (8-bit) изображение 224×224 px
+

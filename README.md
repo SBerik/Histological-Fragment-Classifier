@@ -23,4 +23,5 @@ ___
 * LBL5 Вывод показателей loss и accuracy в процессе обучения
 * LBL13 предобучение на imageNet
 [Доступ к Google collab документу]() _solutionofproblemstarter1_, ссылка: <https://stackoverflow.com/questions/40023013/tab-space-in-markdown>
+
 Если остались вопросы пишет в тг: **@BSnewlife**

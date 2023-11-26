@@ -24,8 +24,10 @@ ___
 * LBL4 Загрузка модели с какой-то конкретной итерации обучения
 * LBL5 Вывод показателей loss и accuracy в процессе обучения
 * LBL13 предобучение на imageNet
-
 ___
+
+### Доступ к Google Collab
+
 [Доступ к Google collab документу](https://drive.google.com/file/d/1yjCy3EAeLNOZuq1eRl-fsPIb9QB-h3IL/view?usp=sharing) название документа: _solutionofproblemstarter1_, далее выйдет подсказка "использовать google collab" - нажмите на нее. Ссылка на файл: <https://drive.google.com/file/d/1yjCy3EAeLNOZuq1eRl-fsPIb9QB-h3IL/view?usp=sharing>
 
 Если остались вопросы пишете в telegram: **@BSnewlife**
